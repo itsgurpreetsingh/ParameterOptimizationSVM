@@ -62,3 +62,7 @@ Best nu : 0.029818
 
 Best epsilon: 0.010533
 
+## Convergence Graph of best SVM
+
+![image](https://user-images.githubusercontent.com/79744977/233186717-ce287920-a0ce-4829-90b3-b964d9d4e7a4.png)
+
