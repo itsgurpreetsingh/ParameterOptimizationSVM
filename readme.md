@@ -3,7 +3,7 @@
 ## About dataset
 
 
-1. It is a multiclass dataset with 19999 rows and 17 columns.
+1. It is a multiclass dataset with 20000 rows and 17 columns.
 
 
 2. Out of 17 attributes 16 primitive numerical attributes (statistical moments and edge counts) which were then scaled to fit into a range of integer values from 0 through 15
