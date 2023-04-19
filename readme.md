@@ -46,3 +46,19 @@ As we can see from histogram data for all the classes are almost equal in number
 3. Null values
 
 There is no null value in dataset
+
+## Result
+
+![image](https://user-images.githubusercontent.com/79744977/233186104-ee32d6c9-600b-485a-bb00-4b4891e63062.png)
+
+Best accuracy : 88.166667
+
+
+Best Model : rbf
+
+
+Best nu : 0.029818
+
+
+Best epsilon: 0.010533
+
